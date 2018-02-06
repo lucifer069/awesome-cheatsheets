@@ -1,8 +1,17 @@
-# Awesome Cheatsheets
+![AWESOME CHEATSHEETS LOgO](_images/awesome_cheatsheets_logo@2x.png)
 
-> 🚀 Cheatsheets for popular programming languages & frameworks. What you should know organized in a single file.
+> 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
-[![forthebadge](http://forthebadge.com/images/badges/as-seen-on-tv.svg)](http://forthebadge.com)
+> ❤️ **If you love this repository, [you can click here to make it spread](https://ctt.ec/PHba4).**
+
+
+## Why Awesome Cheatsheets?
+
+I always make a cheatsheet when I want to improve my skills on a programming language, a framework or a development tool. [I started doing these kind of things a long time ago on Gist](https://gist.github.com/LeCoupa) but as it is easier to keep track of the history, I reorganized everything into a single repository. Most of the content is coming from official documentations or some books I have read.
+
+Feel free to browse each file to learn new things and to keep them at hand when you forgot about something. They have been designed to save you time when you are building great things and to provide a quick way to assess your knowledge.
+
+**If you want to follow this mindset for your favorite programming language, framework or development tool, you are more than welcome to contribute. Just submit changes via pull request and I will review it.**
 
 
 ## Table of Contents
@@ -52,7 +61,4 @@
 
 - [Nanobox CLI](tools/nanobox_cli.sh)
 
-
-## Contributions
-
-Any contribution to the code (via pull request would be nice) or any part of the documentation and any idea and/or suggestion are very welcome.
+- [VIM](tools/vim.txt)
